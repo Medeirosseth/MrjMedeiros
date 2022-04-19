@@ -1,0 +1,5 @@
+.Lyric{
+  background-color: blueviolet;
+  width: 100vw;
+  height: calc(100vh - 70px);
+}

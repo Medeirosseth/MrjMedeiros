@@ -1,0 +1,5 @@
+.MusicVideos{
+  background-color: aqua;
+  width: 100vw;
+  height: calc(100vh - 70px);
+}
