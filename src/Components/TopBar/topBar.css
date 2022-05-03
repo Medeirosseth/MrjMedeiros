@@ -1,1 +1,38 @@
+.topBar {
+  display: flex;
+  flex-direction: column;
+}
 
+.imgContainer{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.navLink{
+  margin-top: 10px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+
+}
+
+.allttaImg{
+  width: 100px;
+  border-radius: 30%;
+}
+
+.procussionsImg{
+  width: 100px;
+  border-radius: 30%;
+}
+
+.knivesImg{
+  width: 100px;
+  border-radius: 30%;
+}
+.topBarImg{
+  border-radius: 50%;
+  width: 200px;
+}
