@@ -1,0 +1,13 @@
+.photo {
+  background-color: darkolivegreen;
+  width: 100vw;
+  object-fit: cover;
+
+}
+
+.mainPhoto{
+  /* object-fit: fill; */
+  /* height: 100vh; */
+  width: 100vw;
+
+}
